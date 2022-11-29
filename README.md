@@ -52,7 +52,7 @@ Steps:
 * Run python manage.py migrate command.
 * Run python manage.py runserver localhost:8000
 
-* Usage
+Usage:
 
 * There are 3 users involved in the application such as Client, Developer, Admin.
 * Login for all 3 users vary depending upon their user type.
